@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="user_credentials">
+        <item>sahil@gmail.com</item>
+        <item>luv@gmail.com</item>
+        <item>pranay@gmail.com</item>
+        <item>nihal@gmail.com</item>
+        <item>naman@gmail.com</item>
+        <item>suraj@gmail.com</item>
+    </string-array>
+
+    <string-array name="user_password">
+        <item>P@ssw0rd</item>
+        <item>P@ssw0rd</item>
+        <item>P@ssw0rd</item>
+        <item>P@ssw0rd</item>
+        <item>P@ssw0rd</item>
+        <item>P@ssw0rd</item>
+    </string-array>
+
+
+
+
+</resources>
